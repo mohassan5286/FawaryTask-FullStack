@@ -3,8 +3,8 @@
 
 ## 1. Assumptions:
   <ol>
-     <li>Shippable products only has weight fees</li>
-     <li>Shippable products with different weights are considered different items</li>
+     <li>Shippable products only has weight fees.</li>
+     <li>Shippable products with different weights are considered different items.</li>
   </ol>
 <br>  
 
@@ -34,5 +34,5 @@
 
 ## 4. Notes:
  <ul>
-     <b><li>The System may be more complicated such that having ID for products and having user information and even separate items and products in different classes, but I try to do as I can with the specifications mentioned</li></b>
+     <b><li>The System may be more complicated such that having ID for products and having user information and even separate items and products in different classes, but I try to do as I can with the specifications mentioned.</li></b>
   </ul>

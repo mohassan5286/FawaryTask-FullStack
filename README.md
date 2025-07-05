@@ -4,6 +4,7 @@
 ## 1. Assumptions:
   <ol>
      <li>Shippable products only has weight fees</li>
+     <li>Shippable products with different weights are considered different items</li>
   </ol>
 <br>  
 

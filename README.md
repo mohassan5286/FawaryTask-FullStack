@@ -1,19 +1,16 @@
 # FawaryTask-FullStack
-<br>
 
 ## 1. Assumptions:
   <ol>
-     <li>Shippable products only has weight fees.</li>
-     <li>Shippable products with different weights are considered different items.</li>
+     <li><b>Shippable products only has weight fees.</b></li>
+     <li><b>Shippable products with different weights are considered different items.</b></li>
   </ol>
-<br>  
 
 ## 2. UML:
   <ul>
      <b><li>UML Class Diagram Describe System Design:</li></b>
     <br><br><img src="Images/UML.JPG" alt="My Image">
   </ul>
-<br>
 
 ## 3. Cases:
   <ol>
@@ -30,7 +27,6 @@
      <b><li>Checkout With Inefficient Balance:</b><br><br><img src="Images/Case11-1.JPG" alt="My Image"><br><img src="Images/Case11-2.JPG" alt="My Image"><br><img src="Images/Case11-3.JPG" alt="My Image"></li><br><br>
      <b><li>Adding Same Item Multiple Times:</b><br><br><img src="Images/Case12.JPG" alt="My Image"></li><br>
   </ol>
-<br>
 
 ## 4. Notes:
  <ul>
